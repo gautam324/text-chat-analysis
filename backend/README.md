@@ -27,34 +27,6 @@ Creating and activating a virtual environment is essential for isolating Python 
      ```bash
      source env/bin/activate
      ```
-
-   Once activated, your terminal prompt will change to indicate you are now working inside the virtual environment.
-
-#### Using `virtualenv` (if `venv` is not available):
-
-1. **Install `virtualenv`:**
-   If `virtualenv` is not already installed, you can install it via pip:
-   ```bash
-   pip install virtualenv
-   ```
-
-2. **Create a Virtual Environment:**
-   ```bash
-   virtualenv env
-   ```
-
-3. **Activate the Virtual Environment:**
-
-   - **On Windows:**
-     ```bash
-     .\env\Scripts\activate
-     ```
-
-   - **On macOS and Linux:**
-     ```bash
-     source env/bin/activate
-     ```
-
      
 4. **Install necessary libraries using requirements.txt**
    ```bash
@@ -66,6 +38,8 @@ Creating and activating a virtual environment is essential for isolating Python 
    python app.py
      ```
 **Make sure that it is running in one of the terminal and frontend on the other terminal**
+   Once activated, your terminal prompt will change to indicate you are now working inside the virtual environment.
+
 
 #### Deactivating the Virtual Environment:
 
