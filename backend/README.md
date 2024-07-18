@@ -7,7 +7,7 @@ Creating and activating a virtual environment is essential for isolating Python 
 
 1. **Navigate to Your Project Directory:**
    ```bash
-   cd /path/to/your/project
+   cd text-chat-analysis/backend/
    ```
 
 2. **Create a Virtual Environment:**
