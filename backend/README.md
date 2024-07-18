@@ -47,7 +47,3 @@ To deactivate the virtual environment and return to your global Python environme
 ```bash
 deactivate
 ```
-
-### Including in Your `README.md`
-
-You can include this section in your `README.md` file to guide users on setting up and activating the virtual environment for your project. Adjust paths and commands as necessary based on your specific project structure and requirements.
