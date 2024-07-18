@@ -1,6 +1,8 @@
+# Text-Chat-Analysis
+
 I have mentioned how to run backend and frontend inside the backend README.md and frontend README.md
 
-Approach
+## Approach:
 This project integrates a Flask backend with a React frontend to perform text analysis, including sentiment analysis and keyword extraction using Hugging Face API models. 
 
 ### Flask Backend (`app.py`):
