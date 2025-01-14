@@ -1,4 +1,5 @@
 # Text-Chat-Analysis
+![frontend1](https://github.com/user-attachments/assets/799fef9d-e972-4c4d-97db-f5a24e5c49c7)
 
 I have mentioned how to run backend and frontend inside the backend README.md and frontend README.md
 
